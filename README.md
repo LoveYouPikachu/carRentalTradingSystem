@@ -10,7 +10,7 @@ To build a car rental system based on the SSM framework, the car rental system i
 
 ### Project screenshot <br/>
 <img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/1.png">
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/tree/master/pictures/2.png">
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/tree/master/pictures/3.png">
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/tree/master/pictures/4.png">
-<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/tree/master/pictures/5.png">
+<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/2.png">
+<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/3.png">
+<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/4.png">
+<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/blob/master/pictures/5.png">
