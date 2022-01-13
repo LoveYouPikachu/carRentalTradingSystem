@@ -1,35 +1,14 @@
-# carRentalTradingSystem
-The system is based on the B/S architecture, the development language is Java, the development tool is IDEA, and the database is mySql. The system's functional modules and database are analyzed and designed in detail, and the SSM framework is used to realize the functions of the system modules.
-# 图书管理系统
-#### 基于Spring+Spring MVC(Maven方式构建)
-[![Build Status](https://travis-ci.org/withstars/Books-Management-System.svg?branch=master)](https://travis-ci.org/withstars/Books-Management-System)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/withstars/Books-Management-System)
-### 项目简介
-本图书管理系统基于spring,spring mvc,数据库为mysql。前端使用了Bootstrap。 
-### 系统功能
-该系统实现读者和管理员登陆，图书的增删改查，读者的增删改查，借还图书，密码修改，卡号挂失，超期提醒等功能。
-### 如何使用
-```
-$ git clone https://github.com/withstars/Books-Management-System
+# Car rental management system based on SSM framework 
+#### Based Spring+Spring MVC
+### Project Description      			   
+This management system is based on spring, spring mvc, and the database is mysql. The front end uses LayUI.                                                                                                        
+### System functions 
+The system implements customer management ，vehicle management ，car rental ，Rental order management and Statistical Analysis functions。
 
-$ cd Books-Management-System
+### System introductions
+To build a car rental system based on the SSM framework, the car rental system is divided into two large modules, namely the system module and the business module. Among them, there are sub-modules under the system module and business module. The system module realizes functions such as user login and menu management, and the business module realizes functions such as customer management, rental and return, and statistical analysis. The system has powerful functions and complex business logic. If it is implemented manually, it will lead to inefficient and error-prone problems. But whether it is an administrator or an enterprise, it will be much more convenient and efficient to manage the rental information through the Internet system. First of all, the administrator can directly view the user's order online, manage the return of the vehicle, and manage the rental car order in real time, thus avoiding useless and inefficient manpower management methods and ensuring the accuracy and efficiency of system management. 
 
-$ mvn clean compile
-
-$ mvn clean package
-
-$ mvn clean install
-
-$ mvn jetty:run
-
-http://localhost:9000
-```
-### 说明<br/>
-1. 如果使用该项目出现问题，请联系我 withstars@126.com
-2. 如果该项目对您有帮助,请star鼓励我
-### 下一步:整合MyBatis 个人博客系统<br/>
-*https://github.com/withstars/Blog-System*
-### 本项目截图<br/>
+### Project screenshot <br/>
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/1.PNG">
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/2.PNG">
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/3.PNG">
