@@ -10,6 +10,8 @@ To build a car rental system based on the SSM framework, the car rental system i
 
 ### Project screenshot <br/>
 <img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/tree/master/pictures/1.png">
+<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/tree/master/pictures/2.png">
+<img src="https://github.com/LoveYouPikachu/carRentalTradingSystem/tree/master/pictures/3.png">
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/2.PNG">
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/3.PNG">
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/4.PNG">
